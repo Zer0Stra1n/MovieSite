@@ -1,0 +1,226 @@
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+dd,
+dt,
+.trailer,
+.plot,
+.close-x,
+.modal-title{
+  display: inline-block;
+}
+
+
+/*Main page styles*/
+  body{
+    font-size: 16px;
+    background-color: #efefef;
+    margin: 0;
+    color: #4e4e4e;
+  }
+
+  .header,
+  main,
+  .footer{
+    width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+
+  h1{
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  h2{
+    font-size: 22px;
+  }
+/*End main page*/
+
+/*Header classes*/
+  .header{
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  header{
+    background-color: #635d59;
+    width: 100%;
+    margin-bottom: 15px;
+    color: #efefef;
+  }
+/*End header classes*/
+
+/*Body classes*/
+  main{
+    border-radius: 5px;
+    background: #fff;
+  }
+
+  .movieInfo{
+    display: inline-block;
+    width: 290px;
+    padding: 0 15px;
+    text-align: center;
+  }
+
+  a{
+    color: #3B73B9;
+  }
+
+  dd{
+    float: right;
+  }
+
+  .release-date,
+  .rating{
+    text-align: left;
+    width: 200px;
+    margin: 0 auto;
+  }
+
+  .legal{
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 50px;
+  }
+/*End body classes*/
+
+/*Footer classes*/
+
+  footer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #635d59;
+    width: 100%;
+    margin-top: 15px;
+    color: #efefef;
+    font-weight: 700
+  }
+
+/*End footer classes*/
+
+/*Modal Styles*/
+  .overlay{
+    width: 100%;
+    z-index: 1000;
+    position: fixed;
+    height: 100%;
+    background: rgba(0,0,0,.6);
+    top: 0;
+    left: 0;
+  }
+
+  .modal{
+    background: #fff;
+    width: 720px;
+    height: 600px;
+    padding: 15px;
+    top: 5%;
+    z-index: 1050;
+    position: fixed;
+    left: 23%;
+    border-radius: 5px;
+  }
+
+  .modal-header,
+  .modal-body,
+  .modal-footer{
+    width: 100%;
+    padding: 0;
+  }
+
+  .modal-footer{
+    float: right;
+  }
+
+/*Modal header items*/
+
+  .modal-header{
+    border-bottom: 1px solid rgba(0,0,0,.15);
+    margin-bottom: 15px;
+  }
+
+  .modal-title{
+    width: 90%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+  .close-x{
+    border-radius: 100%;
+    background: rgba(0,0,0,.15);
+    font-size: 14px;
+    color: #fff;
+    border-color: transparent;
+    position: absolute;
+    right: 15px;
+  }
+/*End modal header items*/
+
+/*Modal body items*/
+  .plot{
+    width: 35%;
+    vertical-align: top;
+    line-height: 22px;
+  }
+
+  .trailer{
+    width: 60%;
+    margin-right: 15px;
+  }
+
+  iframe{
+    width: 100%;
+    height: 250px;
+  }
+
+  .comment-leadin{
+      margin-top: 10px;
+      padding-bottom: 5px;
+      border-bottom: 1px solid rgba(0,0,0,.2);
+      width: 30%;
+  }
+
+  .comment-list{
+    height: 105px;
+  }
+
+  .comment-list ul{
+    height: 85%;
+    width: 100%;
+    overflow: auto;
+  }
+
+  .comment-list li{
+    padding: 5px 4px;
+    border-bottom: 1px solid rgba(0,0,0,.2);
+  }
+
+  .comment-list li:nth-child(odd){
+    background: rgba(0,0,0,.05);
+  }
+/*End modal body*/
+
+/*Modal footer styles*/
+  .button-box{
+    float: right;
+    margin-top: 10px;
+  }
+
+
+  .cta-button{
+    padding: 10px;
+    border-radius: 5px;
+    border: transparent;
+    background: rgb(76, 142, 250);
+    color: #fff;
+    margin-right: 15px;
+  }
+/*End modal footers*/
+
+/*End modal styles*/

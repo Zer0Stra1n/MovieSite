@@ -1,0 +1,166 @@
+{
+  "movies" : [
+    {
+      "id" : "vi781228825",
+      "title" : "Fight Club",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMjIwNTYzMzE1M15BMl5BanBnXkFtZTcwOTE5Mzg3OA@@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/SUXWAEX2jlg",
+      "releaseDate" : "Oct 15, 1999",
+      "plot" : "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more...",
+      "imdbRating" : "8.9"
+    },
+    {
+      "id" : "vi3877612057",
+      "title" : "The Shawshank Redemption",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/xyXX8LXiNJ4",
+      "releaseDate" : "Oct 14, 1994",
+      "plot" : "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "imdbRating" : "9.3"
+    },
+    {
+      "id" : "vi1032782617",
+      "title" : "The Matrix",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/hfpbZmQHkWw",
+      "releaseDate" : "Mar 31, 1999",
+      "plot" : "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "imdbRating" : "8.7"
+    },
+    {
+      "id" : "vi1140457753",
+      "title" : "The Silence of the Lambs",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/W6Mm8Sbe__o",
+      "releaseDate" : "Feb 14, 1991",
+      "plot" :  "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+      "imdbRating" : "8.6"
+    },
+    {
+      "id" : "vi1761608473",
+      "title" : "Star Trek",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/iGAHnZ555nI",
+      "releaseDate" : "May 08, 2009",
+      "plot" :  "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful, time-traveling Romulan creates black holes to destroy the Federation one planet at a time.",
+      "imdbRating" : "8.0"
+    },
+    {
+      "id" : "vi2629239065",
+      "title" : "Army of Darkness",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTU5MDUxMjc3NF5BMl5BanBnXkFtZTgwNjg4NjY1MDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/CZ-wU5RXw2o",
+      "releaseDate" : "Feb 19, 1993",
+      "plot" :  "A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and retrieve the Necronomicon so he can return home.",
+      "imdbRating" : "7.6"
+    },
+    {
+      "id" : "vi2156069145",
+      "title" : "Requiem for a Dream",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMzM2OTYwMTY4Nl5BMl5BanBnXkFtZTcwMjU1Njg3OA@@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/0nU7dC9bIDg",
+      "releaseDate" : "Oct 27, 2000",
+      "plot" :  "The drug-induced utopias of four Coney Island people are shattered when their addictions become stronger.",
+      "imdbRating" : "8.4"
+    },
+    {
+      "id" : "vi902824985",
+      "title" : "The Nightmare Before Christmas",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTc5MDY0MjkwNV5BMl5BanBnXkFtZTcwNTk2Njk3OA@@._V1_SY317_CR12,0,214,317_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/wr6N_hZyBCk",
+      "releaseDate" : "Oct 29, 1993",
+      "plot" :  "Jack Skellington, king of Halloween Town, discovers Christmas Town, but doesn't quite understand the concept.",
+      "imdbRating" : "8.0"
+    },
+    {
+      "id" : "vi3651404057",
+      "title" : "Edward Scissorhands",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BOTE2NDExNjQxMF5BMl5BanBnXkFtZTgwMzQ3NzMxMDE@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/M94yyfWy-KI",
+      "releaseDate" : "Dec 14, 1990",
+      "plot" :  "An uncommonly gentle young man, who happens to have scissors for hands, falls in love with a beautiful girl.",
+      "imdbRating" : "8.0"
+    },
+    {
+      "id" : "vi1067647257",
+      "title" : "Donnie Darko",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTczMzE4Nzk3N15BMl5BanBnXkFtZTcwNDg5Mjc4NA@@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/qdKbNuhXWvQ",
+      "releaseDate" : "Jan 30, 2002",
+      "plot" :  "A troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes, after narrowly escaping a bizarre accident.",
+      "imdbRating" : "8.1"
+    },
+    {
+      "id" : "vi1158218777",
+      "title" : "How to Train Your Dragon",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/VEcM3rbnwQ4",
+      "releaseDate" : "Mar 26, 2010",
+      "plot" :  "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "imdbRating" : "8.2"
+    },
+    {
+      "id" : "vi3619684633",
+      "title" : "Spirited Away",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMjYxMDcyMzIzNl5BMl5BanBnXkFtZTYwNDg2MDU3._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/ByXuk9QqQkk",
+      "releaseDate" : "Mar 28, 2003",
+      "plot" :  "In the middle of her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and monsters; where humans are changed into beasts.",
+      "imdbRating" : "8.6"
+    },
+    {
+      "id" : "vi1586278169",
+      "title" : "Interstellar",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/2LqzF5WauAw",
+      "releaseDate" : "Nov 07, 2014",
+      "plot" :  "A team of explorers travel through a wormhole in an attempt to ensure humanity's survival.",
+      "imdbRating" : "8.8"
+    },
+    {
+      "id" : "vi1298770969",
+      "title" : "Gone Girl",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/esGn-xKFZdU",
+      "releaseDate" : "Oct 03, 2014",
+      "plot" :  "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "imdbRating" : "8.2"
+    },
+    {
+      "id" : "vi513650457",
+      "title" : "Big Hero 6",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMjI4MTIzODU2NV5BMl5BanBnXkFtZTgwMjE0NDAwMjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/z3biFxZIJOQ",
+      "releaseDate" : "Nov 07, 2014",
+      "plot" :  "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+      "imdbRating" : "8.0"
+    },
+    {
+      "id" : "vi3591679257",
+      "title" : "Edge of Tomorrow",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/vw61gCe2oqI",
+      "releaseDate" : "Jun 06, 2014",
+      "plot" :  "A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.",
+      "imdbRating" : "8.0"
+    },
+    {
+      "id" : "vi1441049625",
+      "title" : "Guardians of the Galaxy",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/d96cjJhvlMA",
+      "releaseDate" : "Aug 01, 2014",
+      "plot" :  "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+      "imdbRating" : "8.2"
+    },
+    {
+      "id" : "vi252380953",
+      "title" : "Back to the Future",
+      "poster" : "http://ia.media-imdb.com/images/M/MV5BMjA5NTYzMDMyM15BMl5BanBnXkFtZTgwNjU3NDU2MTE@._V1_SX214_AL_.jpg",
+      "trailer" : "https://www.youtube.com/embed/qvsgGtivCgs",
+      "releaseDate" : "Jul 03, 1985",
+      "plot" :  "A young man is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.",
+      "imdbRating" : "8.5"
+    }
+  ]
+}

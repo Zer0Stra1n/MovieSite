@@ -1,0 +1,25 @@
+{
+  "name": "Udacity",
+  "version": "1.0.0",
+  "authors": [
+    "Seth Sandor <Seth.sandor@ge.com>"
+  ],
+  "description": "This is the build out of the movie trailer site for Udacity",
+  "license": "MIT",
+  "private": true,
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.16",
+    "requirejs-text": "~2.0.14",
+    "handlebars": "~3.0.0",
+    "marionette": "~2.3.2",
+    "jquery": "1.11"
+  }
+}

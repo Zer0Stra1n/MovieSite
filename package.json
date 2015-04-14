@@ -1,0 +1,21 @@
+{
+  "name": "Udacity",
+  "version": "1.0.0",
+  "description": "This is the build out of the movie trailer site for Udacity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.sw.ge.com/ssandor/MovieSite.git"
+  },
+  "author": "Seth Sandor",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express": "^1.4.1",
+    "matchdep": "^0.3.0"
+  }
+}

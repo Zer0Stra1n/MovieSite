@@ -1,0 +1,5 @@
+npm-debug.log
+
+node_modules
+webroot/scripts/libs
+.DS_Store

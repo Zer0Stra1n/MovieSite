@@ -1,0 +1,28 @@
+<div class="overlay js-close"></div>
+<div class="modal">
+  <div class="modal-header">
+    <h2 class="modal-title">{{title}}</h2>
+        <button type="button" class="js-close close-x" aria-hidden="true">
+          <span>&times;
+            <span>
+        </button>
+  </div>
+  <div class="modal-body">
+    <div class="trailer">
+      <iframe src="{{trailer}}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="plot">
+      {{plot}}
+    </div>
+    <div class="comment-leadin">What others have to say:</div>
+    <div id="commentContainer" class="comment-list">
+    </div>
+    <textarea id="commentBox" rows="6" cols="100"></textarea>
+  </div>
+  <div class="modal-footer">
+    <div class="button-box">
+      <button type="submit" class="cta-button" id="submitComment">Submit Comment</button>
+      <a href="#" class="js-close close-button">Close</a>
+    </div>
+  </div>
+</div>
